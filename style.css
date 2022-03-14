@@ -1,0 +1,64 @@
+#home{
+    background-image:url("https://cdn.glitch.global/8c66f1a8-1e9c-4f2f-b260-6dd0875bb9d6/lovehearts.jpg?v=1647220619935");
+    background-repeat:no-repeat;
+    background-size:cover;
+    text-align:center;
+    color:pink;
+
+}
+#buttons{
+display:flex;
+justify-content:center;
+}
+#title{
+    margin:100px;
+      font-size:40px;
+}
+.fpage{
+    text-align:center;
+    width:300px;
+    height:300px;
+    font-size:18pt;
+}
+
+ .heading {
+    text-align: center;
+     font-family: 'Press Start 2P', cursive;
+    }
+#choices{
+    border:white dotted 2px;
+  font-size:24px;
+}
+
+.btn{
+    background-color: transparent;
+    font-size:25px;
+    color:white;
+    border:white dotted 2px;
+    font-family: 'Press Start 2P', cursive;
+}
+.choiceImg, .winImg{
+  height:100px;
+  width:100px;
+}
+#romancepage{
+    background-color: pink;
+    color:#f442dc;
+    text-align: center
+}
+#love {
+    background-color: transparent;
+    color:pink;
+    font-size:25px;
+    border-color:pink;
+  font-family: 'Press Start 2P', cursive;
+height:100px;
+  width:content;
+  
+}
+#screen2{
+    border:#f442dc dotted 2px;
+}
+.btn:hover{
+    color:#f442dc;
+}
